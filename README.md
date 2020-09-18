@@ -34,7 +34,8 @@ pawn_moves
 #########Running the Game
 
 in order to run the game execute command
->>python main.py
+$python main.py
+
 make sure all the dependences which inculde chessEngine.py and Images folder are also downloaded
 
 ################Build with
