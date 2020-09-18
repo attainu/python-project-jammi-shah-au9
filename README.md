@@ -14,7 +14,7 @@ A win can be earned by checkmating the opponent. This occurs when the King is in
 
 The instructions will describe step by step process to execute the program and its desgin
 
-##Program Design
+#########Program Design
 
 The is a simple two player chess which has been developed using basic datastructres and without help from pycharm library for drawing board and other functionalties:
 1.The board has been represnted by an 8 rowed nested list to represent each position
@@ -30,6 +30,7 @@ pawn_moves
 5.main file.py utilises the functions from pygame library and imports chessEngine to utilise the functions defined over there
 6.after initilization we set the board dimensions square sizes and load the pieces onto board utilising load method 
 7.Also defining methods for mouse click capture and storing them to traslate them to their respective cordinateson board
+
 #########Running the Game
 
 in order to run the game execute command
@@ -37,10 +38,13 @@ in order to run the game execute command
 make sure all the dependences which inculde chessEngine.py and Images folder are also downloaded
 
 ################Build with
+
 Python 3.8.3
 
 ###############Dependencies
-pycharm library should be installed in order rtpo execute the program
 
+pygame library should be installed in order rtpo execute the program
+Command : python -m pip install -U pygame --user
 #######3##########Author
+
 "jammi shah"
