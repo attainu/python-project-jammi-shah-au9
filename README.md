@@ -47,6 +47,6 @@ Python 3.8.3
 pygame library should be installed in order rtpo execute the program
 Command : python -m pip install -U pygame --user
 
-#################Author
+#####Demo############
 
-"jammi shah"
+https://drive.google.com/file/d/1_xqmLoPWiUc6ySJpcVxWRWkAWMozxWKZ/view?usp=sharing
